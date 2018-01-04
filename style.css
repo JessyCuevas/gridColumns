@@ -40,6 +40,50 @@ body{
 	border-radius: 3px;
 	text-align: center;}
 
+	.col1{
+	padding: 1em;
+	margin: 8px;
+	background-color: #FFFD56 ;
+	border-radius: 3px;
+	text-align: center;}
+
+	.col2{
+	padding: 1em;
+	margin: 8px;
+	background-color: #A9FE54;
+	border-radius: 3px;
+	text-align: center;}
+
+	.col3{
+	padding: 1em;
+	margin: 8px;
+	background-color: #00E2AC;
+	border-radius: 3px;
+	text-align: center;}
+
+	.col4{
+	padding: 1em;
+	margin: 8px;
+	background-color: #00B6AD;
+	border-radius: 3px;
+	text-align: center;}
+
+	.col6{
+	padding: 1em;
+	margin: 8px;
+	background-color: #9F46C9;
+	border-radius: 3px;
+	text-align: center;}
+
+	.col12{
+	padding: 1em;
+	margin: 8px;
+	background-color: #D628A3;
+	border-radius: 3px;
+	text-align: center;}
+
+
+
 /* 100/12*1*/
 .col-1{
 	width: 8.33333%;}
